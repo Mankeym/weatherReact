@@ -1,0 +1,14 @@
+.header{
+    width: 100%;
+    background: linear-gradient(#e66465, #9198e5) ;
+}
+.header__container{
+    width: 1400px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+.header__title{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}

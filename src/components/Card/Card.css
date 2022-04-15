@@ -1,0 +1,7 @@
+.card__item{
+    padding: 30px 30px;
+    max-width: 260px;
+    width: 100%;
+    box-shadow: 0 0 0 1px #e66465;
+    border-radius: 10px;
+}
